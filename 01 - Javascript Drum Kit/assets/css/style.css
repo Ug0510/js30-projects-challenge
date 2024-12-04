@@ -8,4 +8,44 @@
 .main-background{
     width: 100vw;
     height: 100vh;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.keys{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.key{
+    width: 100px;
+    height: 100px;
+    border:5px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #00000070;
+    /* box-shadow: 1px 1px 10px 3px black; */
+    margin: 0 1rem;
+    transition: all 0.08s;
+}
+.key .letter{
+    font-size: 1.6rem;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.key .song{
+    font-size: 0.6rem;
+    color:#ffcc00 !important;
+    text-transform: uppercase;
+}
+.playing{
+    box-shadow: 0px 0px 6px 3px #ffcc00 ;
+    border-color: #ffcc00;
+    transform: scale(1.1);
 }
