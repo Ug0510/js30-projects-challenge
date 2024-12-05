@@ -3,3 +3,41 @@
     padding:0;
     box-sizing: border-box;
 }
+.clock-container{
+    background: url(https://unsplash.it/1500/1000?image=881&blur=5);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.clock{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border: 20px solid white;
+    position: relative;
+}
+.hands{
+    height: 5px;
+    width: 175px;
+    position: absolute;
+    top:50%;
+    left:55px;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    background-color: black;
+    border-radius: 50%;
+    transition: all 0.03s cubic-bezier(0, 3.32, 0.58, 1);
+}
+
+.minute-hand{
+    width: 160px;
+    left: 70px;
+}
+.hour-hand{
+    width: 130px;
+    left: 100px;
+    /* background-color: yellow; */
+}
