@@ -5,6 +5,8 @@
 }
 :root{
     --primary-color: #fefead;
+    --blur: 0px;
+    --spacing: 10px;
 }
 #wrapper{
     background-color: #173448;
@@ -14,14 +16,27 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    row-gap: 4rem;
 }
-
+.controls label{
+    font-size: 2rem;
+    color:lightgray;
+    margin-right: 10px;
+}
+.controls input{
+    margin-right: 2rem;
+}
+.frame{
+    background-color:rgb(193, 193, 19);
+    padding: var(--spacing);
+    filter: blur(var(--blur));
+}
 #wrapper h1{
     color:white;
-    font-size: 2rem;
+    font-size: 2.4rem;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .text-primary {
-    color: var()
+    color: var(--primary-color);
 }
