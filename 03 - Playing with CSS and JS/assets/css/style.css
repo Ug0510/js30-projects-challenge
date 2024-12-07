@@ -3,3 +3,25 @@
     padding:0;
     box-sizing: border-box;
 }
+:root{
+    --primary-color: #fefead;
+}
+#wrapper{
+    background-color: #173448;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#wrapper h1{
+    color:white;
+    font-size: 2rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text-primary {
+    color: var()
+}
