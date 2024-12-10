@@ -32,3 +32,12 @@ Real growth happens through **building**. By committing to this challenge, I’m
    ```bash
    git clone https://github.com/[your-github-username]/js30-challenge-[yourname].git
 
+
+
+# Daily Progress  
+
+| Day | Project                     | Learnings                                                                                  |
+|-----|-----------------------------|-------------------------------------------------------------------------------------------|
+| 01  | JavaScript Drum Kit         | Learned about using data attributes over classes and how to work with audio in JavaScript. |
+| 02  | CSS + JS Clock              | Understood the `transform-origin` property and improved my CSS skills.                    |
+| 03  | Playing with CSS & JS       | Learned how to manipulate root CSS variables dynamically using JavaScript.                |
