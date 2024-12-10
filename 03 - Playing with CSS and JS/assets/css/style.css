@@ -1,10 +1,10 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: border-box;
+   
 }
 :root{
-    --primary-color: #fefead;
+    --base-color: #fefead;
     --blur: 0px;
     --spacing: 10px;
 }
@@ -27,7 +27,7 @@
     margin-right: 2rem;
 }
 .frame{
-    background-color:rgb(193, 193, 19);
+    background-color:var(--base-color);
     padding: var(--spacing);
     filter: blur(var(--blur));
 }
@@ -38,5 +38,5 @@
 }
 
 .text-primary {
-    color: var(--primary-color);
+    color: var(--base-color);
 }
