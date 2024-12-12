@@ -41,3 +41,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 01  | JavaScript Drum Kit         | Learned about using data attributes over classes and how to work with audio in JavaScript. |
 | 02  | CSS + JS Clock              | Understood the `transform-origin` property and improved my CSS skills.                    |
 | 03  | Playing with CSS & JS       | Learned how to manipulate root CSS variables dynamically using JavaScript.                |
+| 04  | Array Cardio Day 1          | Learned how to work with array functions and some tricky questions to solve               |
