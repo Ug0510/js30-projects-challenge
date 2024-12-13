@@ -42,3 +42,5 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 02  | CSS + JS Clock              | Understood the `transform-origin` property and improved my CSS skills.                    |
 | 03  | Playing with CSS & JS       | Learned how to manipulate root CSS variables dynamically using JavaScript.                |
 | 04  | Array Cardio Day 1          | Learned how to work with array functions and some tricky questions to solve               |
+| 05  | Flex Panel Gallery          | Learned how to create interactive flex panels using CSS transitions, flexbox, and JavaScript event listeners for toggling classes and handling animations.|
+| 06  | Type Ahead                  | Learned how to fetch data from an API, dynamically filter and display matching results with regex, and enhance UI using JavaScript and DOM manipulation|
