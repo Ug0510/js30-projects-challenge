@@ -44,3 +44,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 04  | Array Cardio Day 1          | Learned how to work with array functions and some tricky questions to solve               |
 | 05  | Flex Panel Gallery          | Learned how to create interactive flex panels using CSS transitions, flexbox, and JavaScript event listeners for toggling classes and handling animations.|
 | 06  | Type Ahead                  | Learned how to fetch data from an API, dynamically filter and display matching results with regex, and enhance UI using JavaScript and DOM manipulation|
+| 07  | Array Cardio Day 2          | Learned about array functions like some , every , find , findIndex , splice               |
