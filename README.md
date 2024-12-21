@@ -47,3 +47,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 07  | Array Cardio Day 2          | Learned about array functions like some , every , find , findIndex , splice               |
 | 08  | Fun with HTML5 Canvas       | Learned about the Canvas in html and how to use it and it's basic functions               |
 | 09  | Dev Tools Domination        | Learned various console tricks in JavaScript, including logging, styling, warnings, errors, assertions, grouping, counting, timing, inspecting DOM elements, and displaying data in tables               |
+| 10  | Hold Shift and Check Checkboxes        | Learned how to implement Shift + Click functionality to select multiple checkboxes using JavaScript event handling, including working with the shiftKey property, managing state tracking, and dynamically updating the DOM based on user interactions.              |
