@@ -32,8 +32,6 @@ Real growth happens through **building**. By committing to this challenge, I’m
    ```bash
    git clone https://github.com/[your-github-username]/js30-challenge-[yourname].git
 
-
-
 # Daily Progress  
 
 | Day | Project                     | Learnings                                                                                  |
