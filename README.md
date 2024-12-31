@@ -50,3 +50,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 12  | Key Sequence Detection (Secret Code) | Learned how to detect key sequences using JavaScript by listening to keyup events, storing key presses, and triggering animations or actions when a specific sequence is detected. |
 | 13  | Slide in on Scroll          | Learned how to implement a scroll-triggered animation effect where images slide into view as the user scrolls, using JavaScript for event handling and CSS for styling transitions |
 | 14  | JavaScript References VS Copying  | Learned and Understand the refrences and Deep copying and Shallow copying the values and what approach is better to use in what use case |
+| 15  | LocalStorage & Event Delegation  | Learned about using LocalStorage and more about what is event Delegation and how to use it and it's benefits and use case |
