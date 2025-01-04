@@ -53,3 +53,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 15  | LocalStorage & Event Delegation  | Learned about using LocalStorage and more about what is event Delegation and how to use it and it's benefits and use case |
 | 16  | Mouse Move Shadow  | Learned about using offsets value like x , y and width , height and performing calculations on it |
 | 17  | Sort without Articles | Perform an Sorting on the special basis after performing some operations on the string |
+| 18  | Adding Up Times with Reduce | Work with Method Chaining and use reduce function  |
