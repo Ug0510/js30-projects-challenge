@@ -51,3 +51,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 13  | Slide in on Scroll          | Learned how to implement a scroll-triggered animation effect where images slide into view as the user scrolls, using JavaScript for event handling and CSS for styling transitions |
 | 14  | JavaScript References VS Copying  | Learned and Understand the refrences and Deep copying and Shallow copying the values and what approach is better to use in what use case |
 | 15  | LocalStorage & Event Delegation  | Learned about using LocalStorage and more about what is event Delegation and how to use it and it's benefits and use case |
+| 16  | Mouse Move Shadow  | Learned about using offsets value like x , y and width , height and performing calculations on it |
