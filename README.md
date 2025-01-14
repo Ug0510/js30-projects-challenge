@@ -57,3 +57,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 19  | Webcam Fun | Worked with canvas and it's functions and how to fetch and manipulate data on/from it, also learned to access webcam in the browser  |
 | 20  | Speech Detection | Using the by default property of browser i.e. SpeechRecognition to fetch speech and convert it to text  |
 | 21  | Geolocation | Using the by default property of browser i.e. navigator.geolocation to fetch basic information of user's coords and speed  |
+| 22  | Follow Along Link Highlighter | Practiced using getBoundingClientRect() for dynamic positioning, improved my destructuring skills, and created a captivating effect by seamlessly moving a highlight element over links  |
