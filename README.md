@@ -58,3 +58,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 20  | Speech Detection | Using the by default property of browser i.e. SpeechRecognition to fetch speech and convert it to text  |
 | 21  | Geolocation | Using the by default property of browser i.e. navigator.geolocation to fetch basic information of user's coords and speed  |
 | 22  | Follow Along Link Highlighter | Practiced using getBoundingClientRect() for dynamic positioning, improved my destructuring skills, and created a captivating effect by seamlessly moving a highlight element over links  |
+| 23  | Speech Synthesis | Learned about the browser default speechSyntesis to convert text to speech and played with it's parameters and different values |
