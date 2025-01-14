@@ -59,3 +59,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 21  | Geolocation | Using the by default property of browser i.e. navigator.geolocation to fetch basic information of user's coords and speed  |
 | 22  | Follow Along Link Highlighter | Practiced using getBoundingClientRect() for dynamic positioning, improved my destructuring skills, and created a captivating effect by seamlessly moving a highlight element over links  |
 | 23  | Speech Synthesis | Learned about the browser default speechSyntesis to convert text to speech and played with it's parameters and different values |
+| 24  | Sticky Nav | Create some amazing smooth sticky nav effect utilizing some js and showing some good features |
