@@ -54,3 +54,5 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 16  | Mouse Move Shadow  | Learned about using offsets value like x , y and width , height and performing calculations on it |
 | 17  | Sort without Articles | Perform an Sorting on the special basis after performing some operations on the string |
 | 18  | Adding Up Times with Reduce | Work with Method Chaining and use reduce function  |
+| 19  | Webcam Fun | Worked with canvas and it's functions and how to fetch and manipulate data on/from it, also learned to access webcam in the browser  |
+| 20  | Speech Detection | Using the by default property of browser i.e. SpeechRecognition to fetch speech and convert it to text  |
