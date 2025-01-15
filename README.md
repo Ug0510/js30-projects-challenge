@@ -62,3 +62,4 @@ Real growth happens through **building**. By committing to this challenge, I’m
 | 24  | Sticky Nav | Create some amazing smooth sticky nav effect utilizing some js and showing some good features  |
 | 25  | Event Capture, Propagation, Bubbling and Once | Learned how event propogation works and what is capture phase and what is bubble phase  |
 | 26  | Stripe Follow Along Nav | Learned to create an amazing slider effect navbar with smooth and cool effect  |
+| 27  | Click and Drag | Create my own click and drag effect in a slider and understood the maths working behind it  |
