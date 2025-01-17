@@ -9,13 +9,36 @@
 <body>
 
   <div class="wrapper">
-    <video class="flex" width="765" height="430" src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4" loop controls></video>
+    <video class="flex video45" width="765" height="430" src="652333414.mp4" loop controls></video>
     <div class="speed">
       <div class="speed-bar">1×</div>
     </div>
   </div>
 
 <script>
+
+  const speed = document.querySelector('.speed');
+  const bar = document.querySelector('.speed-bar');
+  const vid = document.querySelector('.video45');
+  let isDown = false;
+
+
+  speed.addEventListener("mousemove", function(e) {
+    if(!isDown) return;
+    const ratePercent = Math.ceil(((e.pageY - this.offsetTop) / this.offsetHeight) * 100);
+    let min = 0.5;
+    let max = 5;
+    const rate = (min + (ratePercent * (max - min)) / 100).toFixed(2);
+    bar.style.height = ratePercent + '%';
+    bar.textContent = rate + "x";
+
+    vid.playbackRate = rate;
+
+    console.log(rate);
+  })
+
+  speed.addEventListener("mousedown",()=>isDown=true);
+  speed.addEventListener("mouseup",()=>isDown=false);
 </script>
 </body>
 </html>
